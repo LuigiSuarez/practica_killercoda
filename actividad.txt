@@ -1,0 +1,5 @@
+1.1.un lenguaje de programacion solo se puede utilizar en algunos sistemas operativos por la estructura y como el kernel compila y decompila la informacion, esto hace que la secuencia que podria funcionar en un determinado sistema operativo no pueda ejecutarse en uno distinto
+2.virtual box soporta multiples maquinas virtuales, siempre y cuando se ajusten a los requisitos del sistema.
+3.el hypervisor es como un observador y jefe su funcion es asignar y supervisar la ejecucion de los procesos de una maquina virtual.
+4.no se rompe por que cada maquina virtual tiene asignados sus recursos, esto hace que el fallo en una no afecte a las demas son independientes.
+
